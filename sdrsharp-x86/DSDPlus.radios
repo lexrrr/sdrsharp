@@ -1,0 +1,16 @@
+
+; DSD+ 1.101; radio records
+;
+; you can edit this file while DSD+ is running
+;
+; line format: protocol, networkID, group, radio, priority, override, hits, timestamp, "radio alias"
+
+
+   ;; 
+
+
+
+P25,       0,    1,        1,        50,  Normal,      14,  2024/09/12  9:19,  ""
+P25,       0,    1,        4927,     50,  Normal,     127,  2024/09/12 10:10,  ""
+
+; 2 records; 0 aliases
